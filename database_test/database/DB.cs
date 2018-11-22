@@ -84,11 +84,6 @@ namespace database_test.database
 			{
 				dbConn.Close();
 			}
-				
-
-			
-
-
 			
 		}
 	}
